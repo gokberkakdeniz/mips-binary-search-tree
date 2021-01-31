@@ -4,6 +4,8 @@
 
 Binary Search Tree insert, build, level-order print, and find operation implementations with a menu in MIPS.
 
+Tested on QtSpim.
+
 ## Implementation Details
 
 | Byte Address | Contents                   |
