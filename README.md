@@ -1,6 +1,6 @@
 # mips-binary-search-tree
 
-![main menu](/images/menu.prg)
+![main menu](images/menu.png?raw=true)
 
 Binary Search Tree insert, build, level-order print, and find operation implementations with a menu in MIPS.
 
